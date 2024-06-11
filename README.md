@@ -4,4 +4,5 @@ Welcome to my repository where I document my learning journey through the short 
 
 ### Contents
 - Notes
+- Codes
 # DeepLearning_Shortcourses
